@@ -1,0 +1,6 @@
+@article{REPO302,
+    author = "Alexey, Dosovitskiy",
+    journal = "arXiv preprint arXiv: 2010.11929",
+    title = "{An image is worth 16x16 words: Transformers for image recognition at scale}",
+    year = "2020"
+}
